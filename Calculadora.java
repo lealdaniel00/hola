@@ -21,5 +21,3 @@ public class Calculadora{
 	public void restar(int a, int b){
 		int resultado = a-b;
 		System.out.println(resultado);
-	}
-}
